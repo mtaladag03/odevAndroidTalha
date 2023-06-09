@@ -1,34 +1,40 @@
 [{
  "Mahalle": "ADEM YAVUZ MAHALLESİ",
  "Nüfus": "17028",
- "Logo": "",
+ "Logo": "https://raw.githubusercontent.com/mtaladag03/odevAndroidTalha/main/ademyavuz.jpg"
 
 },
  
  {
  "Mahalle": "ARMAĞANEVLER MAHALLESİ",
  "Nüfus": "40,326",
- "Logo": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
+ "Logo": "https://raw.githubusercontent.com/mtaladag03/odevAndroidTalha/main/armağanevler.jpeg"
  },
  
  {
  "Mahalle": "ÇAMLIK MAHALLESİ",
  "Nüfus": "24393",
- "Logo": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
+ "Logo": "https://raw.githubusercontent.com/mtaladag03/odevAndroidTalha/main/çamlık.jpg"
  },
  
  {
  "Mahalle": "SİTE MAHALLESİ",
  "Nüfus": "27,584",
- "Logo": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
- }
+ "Logo": "https://raw.githubusercontent.com/mtaladag03/odevAndroidTalha/main/Site-mahallesi.jpg"
+  },
+ 
+ {
  "Mahalle": "TANTAVİ MAHALLESİ",
  "Nüfus": "11,659",
- "Logo": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
-  }
+ "Logo": "https://raw.githubusercontent.com/mtaladag03/odevAndroidTalha/main/tantavi.jpeg"
+ },
+
+  {
  "Mahalle": "TEPEÜSTÜ MAHALLESİ",
  "Nüfus": "15,698",
- "Logo": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
+ "Logo": "https://raw.githubusercontent.com/mtaladag03/odevAndroidTalha/main/tepeüstü.jpg"
+}
+
   }
  
 ]
